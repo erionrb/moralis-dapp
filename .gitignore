@@ -1,0 +1,17 @@
+# binaries
+bin/
+dist/
+lib/
+data/
+
+
+# editors
+*.swp
+.idea/
+.vs/
+.vscode/
+.DS_Store
+
+# common
+node_modules
+.env
